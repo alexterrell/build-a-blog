@@ -4,10 +4,10 @@ body {
   }
 
   nav a {
-      background-color: lightgreen;
+      background-color: blue
       border-radius:2px;
       border:none;
-      color: darkgreen;
+      color: gray;
       cursor: pointer;
       display:block;
       font-size: 85%;
@@ -16,7 +16,7 @@ body {
   }
   
   nav a:hover {  
-      background:lightblue; 
+      background:navy; 
       box-shadow: 0px 5px 5px #777; 
       left: -3px; 
       position: relative; 
@@ -45,16 +45,16 @@ body {
   }
    
   #submit_button {
-      background-color: lightgreen;
+      background-color: navy;
       border-radius:2px; 
       border:none;
-      color: darkgreen; 
+      color: darkblue; 
       cursor: pointer; 
       padding: .5em; 
   }
   
   #submit_button:hover {
-      background:lightblue;
+      background:white;
       box-shadow: 0px 5px 5px #777;
       left: -3px;
       position: relative;
